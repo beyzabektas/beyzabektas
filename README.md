@@ -10,6 +10,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/beyzanur-bekta%C5%9F-b0090311a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beyzanur-bektaş" height="30" width="40" /></a>
 <a href="https://instagram.com/byzbektas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="byzbektas" height="30" width="40" /></a>
+  <a href="https://open.spotify.com/user/beyza.bkts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="byzbektas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
