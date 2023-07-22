@@ -3,7 +3,7 @@
 
 #### 👨‍💻 Education
 ###### • Bachelor's degree in Electrical Engineering at Kocaeli University
-###### • Student in 42Kocaeli 
+###### • Student at 42Kocaeli 
 
 
 #### 💻 Tech Stack
