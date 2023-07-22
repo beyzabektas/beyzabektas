@@ -1,9 +1,11 @@
 ## Hi there , I'm Beyza 👋
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="jorge Alves">
 
+
 #### 👨‍💻 Education
 ###### • Bachelor's degree in Electrical Engineering at Kocaeli University
 ###### • Student at 42Kocaeli 
+#####  • Lifelong Learning 🔭
 
 
 #### 💻 Tech Stack
@@ -19,6 +21,5 @@
 | ![beyzabektas's GitHub stats](https://github-readme-stats.vercel.app/api?username=beyzabektas&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true) | ![beyzabektas's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beyzabektas&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact) |
 |:-:|:-:|
 
-#### 🔭 Lifelong Learning...
 
 
