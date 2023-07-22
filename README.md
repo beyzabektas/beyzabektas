@@ -1,14 +1,14 @@
 ## 🔭 Lifelong Learning
   
 ![wall-e](https://github.com/beyzabektas/beyzabektas/assets/91256847/31673930-403b-4ce5-8670-5a2085459073)
-#### Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/byzbektas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/beyzanur-bekta%C5%9F-b0090311a/) 
+#### :rocket: Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/byzbektas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/beyzanur-bekta%C5%9F-b0090311a/)
 
 
-#### 💻 Education
+#### 👨‍💻 Education
 ##### • Bachelor's degree in Electrical Engineering at Kocaeli University  (2017 – 2021)
 
-##### • Studying in 42Kocaeli (2023 July - ...)
+##### • Student in 42Kocaeli (2023 July - ...)
 
 
 #### 💻 Tech Stack
