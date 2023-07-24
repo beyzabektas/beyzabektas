@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="jorge Alves">
 
 
-#### 👨‍💻 Education
+#### 👩🏻‍💻 Education
 ###### • Bachelor's degree in Electrical Engineering at Kocaeli University
 ###### • Student at 42Kocaeli 
 #####  • Lifelong Learning 🔭
