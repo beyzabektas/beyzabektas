@@ -14,12 +14,7 @@
 #### 🌐 Contact
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/byzbektas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/beyzanur-bekta%C5%9F-b0090311a/)
 
-
-<h1 align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&width=850&lines=C%2FC%2B%2B+developer%2Flearner+at+Ecole+42;Electrical+Engineer+%26%26++JR+Software+Developer+;Lifelong+Learning" alt="Typing SVG" />
-  </a>
-</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&pause=1000&color=B78EF7&background=FFFD4F00&width=600&lines=C+LEARNER+AT+42+KOCAELI;ELECTRICAL+ENGINEER+%26%26+JR+SOFTWARE+DEVELOPER;LIFELONG+LEARNING+..." alt="Typing SVG" /></a>
 
 
 #### 📊 GitHub Stats
