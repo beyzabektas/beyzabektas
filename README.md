@@ -11,7 +11,7 @@ Hi there , I'm Beyza 👋
 
 
 #### 🌐 Contact
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/byzbektas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/beyzanur-bektas)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/byzbektas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/beyzanur-bekta%C5%9F-b0090311a)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&pause=1000&color=B78EF7&background=FFFD4F00&width=600&lines=C+LEARNER+AT+42+KOCAELI;ELECTRICAL+ENGINEER+%26%26+JR+SOFTWARE+DEVELOPER;LIFELONG+LEARNING+..." alt="Typing SVG" /></a>
 
